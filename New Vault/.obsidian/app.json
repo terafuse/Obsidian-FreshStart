@@ -1,0 +1,8 @@
+{
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "promptDelete": false,
+  "userIgnoreFilters": null
+}
